@@ -1,9 +1,10 @@
 .country-style {
-    background-color: cornflowerblue;
+    background-color: rgb(52, 14, 36);
     color: white;
     margin: 10px auto;
     border-radius: 10px;
     padding: 10px 0;
+    border-radius: 20px;
 }
 
 .image {
